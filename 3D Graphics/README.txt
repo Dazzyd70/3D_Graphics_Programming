@@ -7,4 +7,4 @@ You can find the compiled .class files in
 The link to this repo is 
 https://github.com/Dazzyd70/3D_Graphics_Programming/tree/main/3D%20Graphics
 
-The video demonstration is in this directory
+The video demonstrations are in the documentation folder
